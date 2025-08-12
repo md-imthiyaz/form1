@@ -1,0 +1,13 @@
+.body {
+    background-image: url(./assets/images/one.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body-1 {
+    background-image: url(./assets/images/two.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
